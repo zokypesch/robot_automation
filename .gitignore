@@ -1,0 +1,10 @@
+Klikdokter/report
+Klikdokter/var/*.pyc
+Klikdokter/testcase/.pabotsuitenames
+Klikdokter/var/__pycache__
+Klikdokter/var/login.pyc
+Klikdokter/var/conf.pyc
+Klikdokter/.env.setup
+Klikdokter/var/profile.pyc
+Klikdokter/var/register.pyc
+Klikdokter/var/user_pengaturan.py

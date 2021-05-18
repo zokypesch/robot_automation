@@ -1,0 +1,12 @@
+username="rizkyria17@gmail.com"
+password="Kumala17"
+failusername="lala"
+failpassword="123"
+fullname="dummy testing"
+username2="dummytesting"
+email="dtesting300@gmail.com"
+password2="qwerty123"
+search_input="olahraga"
+user_age=25
+pertanyaan="dok..gimana hubungan antara gaya hidup dengan kesehatan?"
+comment="thanks infonya"
